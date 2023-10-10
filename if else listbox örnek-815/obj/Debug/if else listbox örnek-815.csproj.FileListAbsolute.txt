@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if else listbox örnek-815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if else listbox örnek-815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if_else_listbox_örnek_815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if_else_listbox_örnek_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if else listbox örnek-815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if else listbox örnek-815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\bin\Debug\if else listbox örnek-815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\bin\Debug\if else listbox örnek-815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\bin\Debug\if else listbox örnek-815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if else listbox örnek-815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\if else listbox örnek-815\if else listbox örnek-815\obj\Debug\if else listbox örnek-815.pdb
